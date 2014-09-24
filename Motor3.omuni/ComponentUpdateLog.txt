@@ -1,0 +1,25 @@
+Last Modified Date & Time: 08/02/2014 15:35:31
+
+Project : dc_motor
+		Schematic : TopDesign
+
+		Clock_1	v 2.10tv 2.20
+		Clock_3	v 2.10tv 2.20
+		Clock_4	v 2.10tv 2.20
+		BHI	v 1.90tv 2.0
+		BLI	v 1.90tv 2.0
+		motor_dis	v 1.90tv 2.0
+		ALI	v 1.90tv 2.0
+		AHI	v 1.90tv 2.0
+		B	v 1.90tv 2.0
+		A	v 1.90tv 2.0
+		Tx_1	v 1.90tv 2.0
+		L_RXD_1	v 1.90tv 2.0
+		L_TXD_1	v 1.90tv 2.0
+
+Project : dc_motor
+		Design Wide APIs
+
+		cy_boot	v 4.0	v 4.10
+
+

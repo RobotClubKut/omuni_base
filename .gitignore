@@ -1,0 +1,14 @@
+#
+# .gitignore file for PSoC Creator 3.0
+#
+
+# Log files
+*.log
+*.rpt
+
+# Master
+*.omuni/LIN_Mst_test_v7/*.cydsn/codegentemp/*
+
+*.omuni/*.cydsn/DP8051/*
+
+

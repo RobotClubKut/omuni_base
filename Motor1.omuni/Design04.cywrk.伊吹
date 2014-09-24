@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Design04\dc_motor\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\TopDesign.cysch</v>
+<v>Design04\dc_motor\dc_motor.cydwr</v>
+<v>Design04\dc_motor\Header Files</v>
+<v>Design04\dc_motor\Source Files</v>
+<v>Design04\dc_motor\Source Files\main.c</v>
+<v>Design04\dc_motor\Generated_Source</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI\BLI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI\BLI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI\BLI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_1</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_1\Clock_1.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_1\Clock_1.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_3</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_3\Clock_3.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_3\Clock_3.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_4</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_4\Clock_4.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\Clock_4\Clock_4.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyBootAsmKeil.a51</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyDmac.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyDmac.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyFlash.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyFlash.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyLib.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CyLib.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cymem.a51</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cypins.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cyPm.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cyPm.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CySpc.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\CySpc.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cytypes.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\cyutils.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\KeilStart.a51</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\PSoC3_8051.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cy_boot\PSoC3_8051.inc</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\isr_2</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\isr_2\isr_2.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\isr_2\isr_2.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1\LIN_1.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1\LIN_1.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1\LIN_1_INT.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_IntClk</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_IntClk\LIN_1_IntClk.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_IntClk\LIN_1_IntClk.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART\LIN_1_UART.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART\LIN_1_UART.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART\LIN_1_UART_BOOT.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART\LIN_1_UART_INT.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\LIN_1_UART\LIN_1_UART_PM.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\motor_dis</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\motor_dis\motor_dis.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\motor_dis\motor_dis.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\motor_dis\motor_dis_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\PWM_A</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\PWM_A\PWM_A.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\PWM_A\PWM_A.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\PWM_A\PWM_A_PM.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1\QuadDec_1.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1\QuadDec_1.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1\QuadDec_1_PM.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1_Cnt16</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1_Cnt16\QuadDec_1_Cnt16.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1_Cnt16\QuadDec_1_Cnt16.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\QuadDec_1_Cnt16\QuadDec_1_Cnt16_PM.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1\UART_1.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1\UART_1.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1\UART_1_BOOT.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1\UART_1_INT.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1\UART_1_PM.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1_IntClock</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1_IntClock\UART_1_IntClock.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\UART_1_IntClock\UART_1_IntClock.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cydevice.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cydevice_trm.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cydevicekeil.inc</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cydevicekeil_trm.inc</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cydisabledsheets.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cyfitter.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cyfitter_cfg.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cyfitter_cfg.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\cyfitterkeil.inc</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\TopDesign.cysch</v>
+<v>Design04\dc_motor\dc_motor.cydwr</v>
+<v>Design04\dc_motor\Header Files</v>
+<v>Design04\dc_motor\Source Files</v>
+<v>Design04\dc_motor\Source Files\main.c</v>
+<v>Design04\dc_motor\Generated_Source</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\A\A_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\AHI\AHI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\ALI\ALI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\B\B_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI.c</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BHI\BHI_aliases.h</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI</v>
+<v>Design04\dc_motor\Generated_Source\PSoC3\BLI\BLI.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\TopDesign</v>
+<v>Design04\dc_motor\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\TopDesign</v>
+<v>Design04\dc_motor\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\DP8051</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\A.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\AHI.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\ALI.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\B.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\BHI.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\BLI.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\Clock_1.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\Clock_3.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\Clock_4.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\isr_2.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_INT.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_IntClk.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_UART.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_UART_BOOT.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_UART_INT.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\LIN_1_UART_PM.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\motor_dis.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\PWM_A.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\PWM_A_PM.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\QuadDec_1.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\QuadDec_1_Cnt16.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\QuadDec_1_Cnt16_PM.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\QuadDec_1_PM.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\UART_1.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\UART_1_INT.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\dc_motor.elf</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\dc_motor.hex</v>
+<v>Design04\dc_motor\DP8051\DP8051_Keil_951\Debug\dc_motor.map</v>
+<v>Design04\dc_motor\dc_motor.rpt</v>
+<v>Design04\dc_motor\dc_motor_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\PSoC 3 Architecture TRM</v>
+<v>Design04\dc_motor\CY8C32 Family Datasheet</v>
+<v>Design04\dc_motor\System Reference Guide v4_10</v>
+<v>Design04\dc_motor\cy_clock_v2_20</v>
+<v>Design04\dc_motor\cy_constant_v1_0</v>
+<v>Design04\dc_motor\cy_isr_v1_70</v>
+<v>Design04\dc_motor\cy_pins_v2_0</v>
+<v>Design04\dc_motor\LIN_v1_30</v>
+<v>Design04\dc_motor\not_v1_0</v>
+<v>Design04\dc_motor\PWM_v3_0</v>
+<v>Design04\dc_motor\QuadDec_v2_30</v>
+<v>Design04\dc_motor\UART_v2_30</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Design04</v>
+<v>Design04\dc_motor</v>
+<v>Design04\dc_motor\PSoC 3 Architecture TRM</v>
+<v>Design04\dc_motor\CY8C32 Family Datasheet</v>
+<v>Design04\dc_motor\System Reference Guide v4_10</v>
+<v>Design04\dc_motor\cy_clock_v2_20</v>
+<v>Design04\dc_motor\cy_constant_v1_0</v>
+<v>Design04\dc_motor\cy_isr_v1_70</v>
+<v>Design04\dc_motor\cy_pins_v2_0</v>
+<v>Design04\dc_motor\LIN_v1_30</v>
+<v>Design04\dc_motor\not_v1_0</v>
+<v>Design04\dc_motor\PWM_v3_0</v>
+<v>Design04\dc_motor\QuadDec_v2_30</v>
+<v>Design04\dc_motor\UART_v2_30</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\dc_motor.cydsn\main.c" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
