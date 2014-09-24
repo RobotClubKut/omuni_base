@@ -1,0 +1,151 @@
+# LIN_Mst_test
+# 2014-09-24 12:11:10Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+dont_use_location 0 0
+dont_use_location 1 0
+dont_use_location 2 0
+dont_use_location 3 0
+dont_use_location comparatorcell -1 -1 2
+dont_use_location comparatorcell -1 -1 3
+dont_use_location sccell -1 -1 0
+dont_use_location sccell -1 -1 1
+dont_use_location sccell -1 -1 2
+dont_use_location sccell -1 -1 3
+dont_use_location vidaccell -1 -1 1
+dont_use_location vidaccell -1 -1 2
+dont_use_location vidaccell -1 -1 3
+dont_use_location abufcell -1 -1 0
+dont_use_location abufcell -1 -1 2
+dont_use_location abufcell -1 -1 1
+dont_use_location abufcell -1 -1 3
+set_location "ClockBlock" clockblockcell -1 -1 0
+set_location "ISR_PS2" interrupt -1 -1 0
+set_io "LIN_RX(0)" iocell 12 4
+set_location "LIN_RX(0)_SYNC" 3 1 5 1
+set_io "LIN_TX(0)" iocell 1 6
+set_io "Line_Rx(0)" iocell 0 0
+set_location "Line_Rx(0)_SYNC" 0 2 5 0
+set_io "Line_Tx(0)" iocell 0 1
+set_location "MODIN1_0" 3 2 1 3
+set_location "MODIN1_1" 3 2 1 2
+set_location "MODIN6_0" 3 1 1 1
+set_location "MODIN6_1" 3 1 1 0
+set_location "Net_141" 0 1 1 3
+set_location "Net_171" 1 1 0 1
+set_location "Net_285" 2 4 1 0
+set_location "Net_438" 2 3 0 0
+set_io "PS2_IN(0)" iocell 6 6
+set_location "PS2_IN(0)_SYNC" 3 1 5 0
+set_io "Tx_UART(0)" iocell 0 4
+set_location "\LIN:BUART:counter_load_not\" 0 2 0 1
+set_location "\LIN:BUART:rx_bitclk_enable\" 3 2 1 1
+set_location "\LIN:BUART:rx_break_detect\" 3 5 0 0
+set_location "\LIN:BUART:rx_counter_load\" 3 4 0 3
+set_location "\LIN:BUART:rx_last\" 2 3 1 2
+set_location "\LIN:BUART:rx_load_fifo\" 3 5 1 1
+set_location "\LIN:BUART:rx_postpoll\" 3 2 1 0
+set_location "\LIN:BUART:rx_state_0\" 3 4 1 0
+set_location "\LIN:BUART:rx_state_1\" 3 4 1 1
+set_location "\LIN:BUART:rx_state_2\" 3 4 0 0
+set_location "\LIN:BUART:rx_state_2_split\" 3 3 0 0
+set_location "\LIN:BUART:rx_state_3\" 3 5 1 0
+set_location "\LIN:BUART:rx_state_stop1_reg\" 3 5 0 3
+set_location "\LIN:BUART:rx_status_1\" 3 5 0 1
+set_location "\LIN:BUART:rx_status_3\" 3 5 0 2
+set_location "\LIN:BUART:rx_status_4\" 3 4 0 2
+set_location "\LIN:BUART:rx_status_5\" 3 5 1 3
+set_location "\LIN:BUART:sRX:RxBitCounter\" 3 4 7
+set_location "\LIN:BUART:sRX:RxShifter:u0\" 3 1 2
+set_location "\LIN:BUART:sRX:RxSts\" 3 5 4
+set_location "\LIN:BUART:sTX:TxShifter:u0\" 0 1 2
+set_location "\LIN:BUART:sTX:TxSts\" 0 1 4
+set_location "\LIN:BUART:sTX:sCLOCK:TxBitClkGen\" 0 2 2
+set_location "\LIN:BUART:tx_bitclk\" 0 2 0 2
+set_location "\LIN:BUART:tx_bitclk_enable_pre\" 0 2 0 3
+set_location "\LIN:BUART:tx_state_0\" 0 1 1 0
+set_location "\LIN:BUART:tx_state_1\" 0 2 0 0
+set_location "\LIN:BUART:tx_state_2\" 0 1 0 1
+set_location "\LIN:BUART:tx_status_0\" 0 1 0 2
+set_location "\LIN:BUART:tx_status_2\" 0 1 1 2
+set_location "\LIN:BUART:txn\" 0 1 0 0
+set_location "\LIN:RXInternalInterrupt\" interrupt -1 -1 1
+set_location "\LIN:TXInternalInterrupt\" interrupt -1 -1 2
+set_location "\LIN_Timer:TimerUDB:rstSts:stsreg\" 2 3 4
+set_location "\LIN_Timer:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\" 2 4 6
+set_location "\LIN_Timer:TimerUDB:sT8:timerdp:u0\" 2 4 2
+set_location "\LIN_Timer:TimerUDB:status_tc\" 2 4 1 1
+set_location "\Line:BUART:counter_load_not\" 2 4 0 0
+set_location "\Line:BUART:pollcount_0\" 2 2 0 1
+set_location "\Line:BUART:pollcount_1\" 2 2 0 0
+set_location "\Line:BUART:rx_address_detected\" 1 1 1 0
+set_location "\Line:BUART:rx_bitclk_enable\" 2 2 0 2
+set_location "\Line:BUART:rx_counter_load\" 1 1 1 1
+set_location "\Line:BUART:rx_last\" 1 2 1 0
+set_location "\Line:BUART:rx_load_fifo\" 1 1 1 3
+set_location "\Line:BUART:rx_markspace_pre\" 1 2 0 2
+set_location "\Line:BUART:rx_postpoll\" 1 2 1 1
+set_location "\Line:BUART:rx_state_0\" 1 2 0 0
+set_location "\Line:BUART:rx_state_2\" 1 2 1 2
+set_location "\Line:BUART:rx_state_3\" 1 2 0 1
+set_location "\Line:BUART:rx_state_stop1_reg\" 1 2 1 3
+set_location "\Line:BUART:rx_status_3\" 1 2 0 3
+set_location "\Line:BUART:rx_status_4\" 2 2 1 2
+set_location "\Line:BUART:rx_status_5\" 2 2 1 0
+set_location "\Line:BUART:sCR:SyncCtl:CtrlReg\" 2 1 6
+set_location "\Line:BUART:sRX:RxBitCounter\" 1 2 7
+set_location "\Line:BUART:sRX:RxShifter:u0\" 1 2 2
+set_location "\Line:BUART:sRX:RxSts\" 2 2 4
+set_location "\Line:BUART:sTX:TxShifter:u0\" 2 5 2
+set_location "\Line:BUART:sTX:TxSts\" 2 5 4
+set_location "\Line:BUART:sTX:sCLOCK:TxBitClkGen\" 2 3 2
+set_location "\Line:BUART:tx_bitclk\" 2 5 0 2
+set_location "\Line:BUART:tx_bitclk_enable_pre\" 2 5 0 3
+set_location "\Line:BUART:tx_ctrl_mark_last\" 2 1 1 2
+set_location "\Line:BUART:tx_mark\" 2 1 1 1
+set_location "\Line:BUART:tx_state_0\" 2 1 1 0
+set_location "\Line:BUART:tx_state_1\" 2 5 0 0
+set_location "\Line:BUART:tx_state_2\" 2 5 0 1
+set_location "\Line:BUART:tx_status_0\" 2 4 0 2
+set_location "\Line:BUART:tx_status_2\" 2 5 1 2
+set_location "\Line:BUART:txn\" 2 1 0 1
+set_location "\Line:RXInternalInterrupt\" interrupt -1 -1 3
+set_location "\UART_2:BUART:counter_load_not\" 1 1 0 2
+set_location "\UART_2:BUART:sTX:TxShifter:u0\" 2 1 2
+set_location "\UART_2:BUART:sTX:TxSts\" 3 2 4
+set_location "\UART_2:BUART:sTX:sCLOCK:TxBitClkGen\" 1 1 2
+set_location "\UART_2:BUART:tx_bitclk\" 0 2 1 0
+set_location "\UART_2:BUART:tx_bitclk_enable_pre\" 0 2 1 1
+set_location "\UART_2:BUART:tx_state_0\" 3 1 0 0
+set_location "\UART_2:BUART:tx_state_1\" 3 1 0 3
+set_location "\UART_2:BUART:tx_state_2\" 3 1 0 2
+set_location "\UART_2:BUART:tx_status_0\" 3 1 0 1
+set_location "\UART_2:BUART:tx_status_2\" 3 2 0 2
+set_location "\UART_2:BUART:txn\" 1 1 0 0
+set_location "\UART_2:TXInternalInterrupt\" interrupt -1 -1 4
+set_location "\UART_PS2:BUART:rx_address_detected\" 3 1 1 3
+set_location "\UART_PS2:BUART:rx_bitclk_enable\" 2 3 0 2
+set_location "\UART_PS2:BUART:rx_counter_load\" 3 3 1 0
+set_location "\UART_PS2:BUART:rx_last\" 2 4 0 3
+set_location "\UART_PS2:BUART:rx_load_fifo\" 3 3 1 3
+set_location "\UART_PS2:BUART:rx_postpoll\" 3 1 1 2
+set_location "\UART_PS2:BUART:rx_state_0\" 3 2 0 0
+set_location "\UART_PS2:BUART:rx_state_2\" 3 3 1 2
+set_location "\UART_PS2:BUART:rx_state_3\" 3 2 0 3
+set_location "\UART_PS2:BUART:rx_state_stop1_reg\" 3 3 1 1
+set_location "\UART_PS2:BUART:rx_status_3\" 3 2 0 1
+set_location "\UART_PS2:BUART:rx_status_4\" 2 3 0 3
+set_location "\UART_PS2:BUART:rx_status_5\" 2 3 0 1
+set_location "\UART_PS2:BUART:sRX:RxBitCounter\" 3 3 7
+set_location "\UART_PS2:BUART:sRX:RxShifter:u0\" 3 2 2
+set_location "\UART_PS2:BUART:sRX:RxSts\" 1 1 4
+set_location "isr_1" interrupt -1 -1 5
+set_location "isr_line" interrupt -1 -1 6
+set_location "lin_timer_isr" interrupt -1 -1 7
+set_location "uart_rx_isr" interrupt -1 -1 8
+set_location "uart_tx_isr" interrupt -1 -1 9
