@@ -783,7 +783,8 @@ int main()
 	
 	// speed
 	Speed omuni;
-	omuni.max = 3000;
+	omuni.max = 1500;
+	//omuni.max = 3000;
     /* Place your initialization/startup code here (e.g. MyInst_Start()) */
 
     CyGlobalIntEnable;  /* Uncomment this line to enable global interrupts. */

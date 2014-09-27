@@ -2,7 +2,7 @@
 --	Conversion of LIN_Mst_test.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Wed Sep 24 21:11:03 2014
+--	Sat Sep 27 11:30:58 2014
 --
 
 USE cypress.cypress.all;

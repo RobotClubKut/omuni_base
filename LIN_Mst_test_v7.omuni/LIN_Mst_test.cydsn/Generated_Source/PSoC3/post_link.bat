@@ -17,5 +17,5 @@ move "%~1\%~2\%~n3.hex" "%~1\%~2\%~n3.ihx"
 @IF %errorlevel% NEQ 0 EXIT /b %errorlevel% 
 CD /D "C:\Keil\UV4"
 @IF %errorlevel% NEQ 0 EXIT /b %errorlevel% 
-IF NOT EXIST "C:\Users\tatsuya\Desktop\eroge\key\LIN_Mst_test_v7\LIN_Mst_test.cydsn\LIN_Mst_test.svd" rem "C:\Users\tatsuya\Desktop\eroge\key\LIN_Mst_test_v7\LIN_Mst_test.cydsn\LIN_Mst_test.sfr"
+IF NOT EXIST "C:\Users\tatsuya\Documents\GitHub\omuni_base\LIN_Mst_test_v7.omuni\LIN_Mst_test.cydsn\LIN_Mst_test.svd" rem "C:\Users\tatsuya\Documents\GitHub\omuni_base\LIN_Mst_test_v7.omuni\LIN_Mst_test.cydsn\LIN_Mst_test.sfr"
 @IF %errorlevel% NEQ 0 EXIT /b %errorlevel% 
